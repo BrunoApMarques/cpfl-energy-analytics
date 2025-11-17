@@ -1,0 +1,7 @@
+id_ocorrencia,data_abertura,data_fechamento,regiao,causa,clientes_afetados,status
+1,2025-01-01 08:10,2025-01-01 10:20,Campinas,Temporal,120,Concluída
+2,2025-01-02 14:35,2025-01-02 17:10,Sumaré,Equipamento,45,Concluída
+3,2025-01-03 09:00,2025-01-03 12:30,Indaiatuba,Acidente,210,Concluída
+4,2025-01-04 11:15,,Campinas,Manutenção,80,Em atendimento
+5,2025-01-05 07:55,2025-01-05 08:40,Hortolândia,Temporal,30,Concluída
+6,2025-01-06 18:20,,Paulínia,Equipamento,150,Em atendimento

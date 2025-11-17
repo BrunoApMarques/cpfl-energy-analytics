@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Config local de IDE
+.vscode/
+
+# Dados gerados (saída de processamento)
+data/processed/
